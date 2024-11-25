@@ -27,8 +27,6 @@ The dataset used in this project is titled **"The Big Dataset of Ultra-Marathon 
 #### **Unique Identifiers**
 - **Athlete ID**: Unique identifier for each athlete to track performances across multiple races.
 
-This dataset is ideal for exploring long-term trends in ultra-marathon running, comparing athlete performance, and analyzing race characteristics.
-
 ---
 
 ## Approach Used in This Project
@@ -68,12 +66,11 @@ This dataset is ideal for exploring long-term trends in ultra-marathon running, 
 
 ## Business Questions to Answer
 This project addresses the following questions:
-1. **Which countries host the fastest ultra-marathons?**
-2. **Are athletes slower in summer compared to winter?**
-3. **How does performance vary between different race distances (e.g., 50km, 50mi)?**
-4. **Which age groups perform best in ultra-marathons?**
-5. **What are the gender differences in ultra-marathon performance?**
-6. **For 50mi races, how does performance vary across seasons?**
+1. **Are athletes slower in summer compared to winter?**
+2. **How does performance vary between different race distances (e.g., 50km, 50mi)?**
+3. **Which age groups perform best in ultra-marathons?**
+4. **What are the gender differences in ultra-marathon performance?**
+5. **For 50mi races, how does performance vary across seasons?**
 
 ---
 
@@ -95,7 +92,3 @@ This project addresses the following questions:
 ### **Exploratory Data Analysis (EDA)**
 - Identifying trends, patterns, and outliers.
 - Answering business questions using descriptive statistics and visualizations.
-
-### **Communication**
-- Presenting results through clear visuals and actionable insights.
-
